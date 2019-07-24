@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Now
 permalink: /now/
 ---
 
-Product Man @ [Leena AI|https://leena.ai]
+Product Man @ [Leena AI](https://leena.ai)
 
 ### More Information
 
