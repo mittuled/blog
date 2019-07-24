@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Now
-permalink: /now/
+permalink: /
 ---
 
 Product Man @ [Leena AI](https://leena.ai)
