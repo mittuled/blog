@@ -1,15 +1,21 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /now/
 ---
 
-Some information about you!
+Product Man @ [Leena AI|https://leena.ai]
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I help B2B SaaS companies reach wider audiences, derive value-based pricing and improve processes.
+
+I like solving complex people problems at scale.
+
+I am fond of reading, writing, music, and design.
+
+I found it amusing to add an ‘ed’ to my name because of my interest in education as well as to verbify my name.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mittuld6@gmail.com](mailto:mittuld6@gmail.com)
