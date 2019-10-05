@@ -4,18 +4,24 @@ title: Now
 permalink: /
 ---
 
-Product Man @ [Leena AI](https://leena.ai)
+Currently, Product Man @ [Leena AI](https://leena.ai)
 
-### More Information
+Trying to understand organizational behavior in enterprises and solve for Monday blues.
 
-I help B2B SaaS companies reach wider audiences, derive value-based pricing and improve processes.
+### About me
 
-I like solving complex people problems at scale.
+Mittul helps people & companies solve complex problems by helping them structure it and make their lives a little bit simpler & easier. By doing so, Mittul feels a sense of happiness & accomplishment and people feel a sense of warmth & composure. 
 
-I am fond of reading, writing, music, and design.
+Mittul is able to do so by being informed, his ability to look at the big picture and the minute details, find nuance, and the ability to empathize & communicate well with fellow human beings.
 
-I found it amusing to add an ‘ed’ to my name because of my interest in education as well as to verbify my name.
+Mittul is fond of reading, writing, music, and design.
 
 ### Contact me
 
 [mittuld6@gmail.com](mailto:mittuld6@gmail.com)
+
+### The idea
+
+The idea for the / now page comes from Derek Sivers .
+
+He started the so-called "/ now page movement". I liked the idea of having a place to talk about what you are currently working on right now. Here is my / now page, which I will update regularly.
