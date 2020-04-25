@@ -4,9 +4,9 @@ title: Now
 permalink: /
 ---
 
-Currently, Product Man @ [Leena AI](https://leena.ai)
+Currently, Product Man @ [Razorpay](https://razorpay.com)
 
-Trying to understand organizational behavior in enterprises and solve for Monday blues.
+Solving cashflow challenges in Start-ups and SMEs.
 
 ### About me
 
