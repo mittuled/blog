@@ -6,7 +6,7 @@ permalink: /
 
 Currently, Product Man @ [Razorpay](https://razorpay.com)
 
-Solving cashflow challenges in Start-ups and SMEs.
+Solving cashflow challenges for Start-ups and SMEs.
 
 ### About me
 
